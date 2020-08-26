@@ -1,0 +1,16 @@
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.exe
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.deps.json
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.runtimeconfig.json
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.runtimeconfig.dev.json
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.dll
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\bin\Debug\netcoreapp3.1\SalesPoint.pdb
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.csprojAssemblyReference.cache
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.Form1.resources
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.Form2.resources
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.csproj.GenerateResource.cache
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.AssemblyInfoInputs.cache
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.AssemblyInfo.cs
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.csproj.CoreCompileInputs.cache
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.dll
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.pdb
+C:\Users\jsali\Desktop\Develop\IDEABYTE\SalesPoint\SalesPointSln\SalesPoint\obj\Debug\netcoreapp3.1\SalesPoint.genruntimeconfig.cache
